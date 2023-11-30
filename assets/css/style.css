@@ -22,17 +22,6 @@ header a:hover{
     color: white;
     transition: 1s ease-in-out;
 }
-body{
-    background-image: url('/assets/img/img2.webp');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: -25% -25%;
-    background-position: top;
-    margin-top: -10px;
-    position: sticky;
-    background-attachment: fixed;
-    max-height: 300px;
-}
 main .design{
      margin-top: 800px;
     width: 100%;
